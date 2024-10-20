@@ -1,2 +1,2 @@
 My Personal Blog
-- [57u.tech](https://57u.tech/)
+- [blog.57u.tech](https://blog.57u.tech/)
