@@ -10,10 +10,5 @@ My Personal Blog
     <img style="width:100%;height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=57uu&layout=donut&hide=css,scss,html,cmake" alt="most used lang" />
     <img style="width:100%;height:auto;" src="https://github-readme-stats.vercel.app/api?username=57uu&show_icons=true&locale=en" alt="stats" />
 </div>
-<style>
-@media (max-width: 640px) {
-    div { grid-template-columns: 1fr !important; }
-}
-</style>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=57uu)
