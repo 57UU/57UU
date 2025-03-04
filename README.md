@@ -7,7 +7,7 @@ My Personal Blog
 
 # status
 <div style="display:flex;justify-content:center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=57uu&layout=donut&hide=javascript,css,scss,html,cmake" alt="most used lang" </img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=57uu&layout=donut&hide=css,scss,html,cmake" alt="most used lang" </img>
     <img src="https://github-readme-stats.vercel.app/api?username=57uu&show_icons=true&locale=en" alt="stats" </img>
 </div>
 
