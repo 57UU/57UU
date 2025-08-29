@@ -1,5 +1,5 @@
-My Personal Blog
-- [blog.57u.tech](https://blog.57u.tech/)
+- My Personal Blog: [blog.57u.tech](https://blog.57u.tech/)
+- My Page [57u.tech](https://57u.tech/)
 
 # i use
 
